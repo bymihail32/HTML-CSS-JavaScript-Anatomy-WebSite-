@@ -1,0 +1,261 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("/images/Slide-8.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.4375rem;
+  margin: 250px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 416px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 192px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 370px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 171px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 247px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 123px;
+    margin-right: 101px;
+    margin-left: auto;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 222px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 70px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.4375rem;
+  margin: 21px auto 0 40px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 1.125rem;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 306px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-right: 227px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 362px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 17px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 24px;
+    margin-right: 251px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 677px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 212px;
+  height: 283px;
+  margin: 20px 20px 0 auto;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.4375rem;
+  margin: -283px auto 0 40px;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 20px 252px 0 0;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 1.4375rem;
+  margin: 20px auto 0 40px;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.125rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-text-5 {
+  font-size: 1.4375rem;
+  margin: 20px auto 0 40px;
+}
+
+.u-section-3 .u-text-6 {
+  font-size: 1.125rem;
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 789px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-top: -20px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -243px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-right: 232px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 901px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-top: 52px;
+    margin-right: -14px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -314px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 207px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1013px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 147px;
+    height: 196px;
+    margin-top: -149px;
+    margin-right: 30px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -27px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1293px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 164px;
+    height: 219px;
+    margin-top: -160px;
+    margin-right: 17px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -39px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 169px;
+}
+
+.u-section-4 .u-social-icons-1 {
+  height: 53px;
+  min-height: 16px;
+  width: 366px;
+  min-width: 146px;
+  margin: 58px auto;
+}
+
+.u-section-4 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+.u-section-4 .u-icon-4 {
+  height: 100%;
+  color: rgb(203, 32, 39) !important;
+}
+
+.u-section-4 .u-icon-5 {
+  height: 100%;
+}
+
+.u-section-4 .u-icon-6 {
+  height: 100%;
+  color: rgb(0, 122, 185) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-social-icons-1 {
+    width: 368px;
+  }
+}
