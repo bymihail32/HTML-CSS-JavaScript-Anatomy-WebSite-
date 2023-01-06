@@ -16,6 +16,14 @@ information about the human reproductive system.
 -	**JavaScript** – some animations.
 - 	**Images** – Unsplash & Pngtree.
 
+### **Responsive Web Design - Resolutions:**
+-	**Desktops** – 1200px.
+-	**Leptops** – 992px.
+-	**Tablets** – 768px.
+- 	**Landscape Phones** – 540px.
+-   **Portrait Phones** – 340px.
+
+
 ### **Content**
 
 1.	**Homepage** - General information about the human body with a beautiful slider.
@@ -29,7 +37,7 @@ information about the human reproductive system.
 9.	**Respiratory System** – Page with informations about the respiratory system of the human body.
 10.	**Reproductive system** – Page with informations about the digestive system of the human body.
 
-### **Live Version of the Website:** - 
+### **Live Version of the Website:** - https://anatomy.povestioare.ro/
 
 ### **WebSite Images:**
 

@@ -39024,11 +39024,11 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
-        --theme-sheet-width-xl: 1440px;
-        --theme-sheet-width-lg: 1199px;
-        --theme-sheet-width-md: 991px;
-        --theme-sheet-width-sm: 767px;
-        --theme-sheet-width-xs: 575px;
+        --theme-sheet-width-xl: 1200px;
+        --theme-sheet-width-lg: 992px;
+        --theme-sheet-width-md: 768px;
+        --theme-sheet-width-sm: 540px;
+        --theme-sheet-width-xs: 340px;
         
         
         
@@ -39330,13 +39330,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 87px;
+  min-height: 68px;
 }
 
 .u-header .u-image-1 {
-  width: 62px;
-  height: 61px;
-  margin: 13px auto 0 0;
+  width: 42px;
+  height: 41px;
+  margin: 14px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -39345,7 +39345,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -49px 0 26px auto;
+  margin: -35px 0 13px auto;
 }
 
 .u-header .u-nav-1 {
@@ -39365,9 +39365,20 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 37px 67px 0 auto;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 59px;
+  }
+
+  .u-header .u-image-1 {
+    width: 43px;
+    height: 42px;
+    margin-top: 11px;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -49px;
+    margin-top: -41px;
+    margin-bottom: 11px;
   }
 
   .u-header .u-nav-2 {
@@ -39382,12 +39393,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 70px;
+    min-height: 49px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 6px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -55px;
-    margin-bottom: 19px;
+    margin-top: -37px;
+    margin-bottom: 6px;
   }
 
   .u-header .u-nav-2 {
@@ -39404,22 +39419,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-header .u-menu-1 {
-    margin-top: -49px;
-    margin-bottom: 13px;
+    margin-top: -34px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 73px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 6px;
+    min-height: 54px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -46px;
-    margin-bottom: 21px;
+    margin-top: -37px;
+    margin-bottom: 11px;
   }
 }
 .u-footer .u-sheet-1 {
